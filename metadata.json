@@ -1,0 +1,7 @@
+{
+  "name": "VoyageCash AI Tracker",
+  "description": "A responsive web application for tracking journeys, managing petty cash expenses, and analyzing spending trends using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
